@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "iostat": "^0.2.2",
+    "node-pty": "^0.10.1",
+    "os": "^0.1.2",
+    "pidusage": "^3.0.2",
+    "systeminformation": "^5.17.12",
+    "websocket": "^1.0.34",
+    "ws": "^8.13.0"
+  }
+}

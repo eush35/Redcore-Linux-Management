@@ -1,0 +1,13 @@
+{
+    "language": "tr_TR",
+    "hideProUpgradeMessages": true,
+    "connectionRestrictions": {
+        "types": ["ftp","sftp"]
+    },
+    "contextMenuItemDisplay": {
+        "download": false,
+        "create-zip": false,
+        "copy-name": false,
+        "copy": false
+    }
+}
