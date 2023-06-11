@@ -32,7 +32,7 @@ Git ile indirilen dosyayı apache sunucumuzun içerisine atacak ve a2ensite ile 
 [EN] You will upload the downloaded file with Git to our apache server and activate it with a2ensite.
 
 ```bash
-  git clone https://github.com/eush35/redcore
+  git clone https://github.com/eush35/Redcore-Linux-Management
 ```
 
 ```bash
